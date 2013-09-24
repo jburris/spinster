@@ -1,0 +1,17 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#header {
+  text-align: center;   
+}
+
+a.follow-link {
+  text-align: right
+}
+
+.centered {
+  margin:0 auto;
+  float:none;
+  text-align: center;
+}
