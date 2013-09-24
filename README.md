@@ -1,4 +1,4 @@
-spinster
+Spinster
 ========
 
-Pinterest test bed
+A simple Pinterest test bed
